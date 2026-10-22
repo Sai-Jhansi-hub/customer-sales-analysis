@@ -21,35 +21,40 @@ The dataset is the Sample - Superstore dataset. It contains order details, custo
 
 4. Project Structure
    
-data/: Original and cleaned datasets
-
-notebooks/: Python analysis notebooks
-
-sql/: SQL queries
-
-outputs/: Cleaned data and visualizations
-
-README.md: Project documentation
-
-requirements.txt: Required Python libraries
+- data/: Original and cleaned datasets
+- notebooks/: Python analysis notebooks
+- sql/: SQL queries
+- outputs/: Cleaned data and visualizations
+- README.md: Project documentation
+- requirements.txt: Required Python libraries
 
 5. Analysis Performed
    
-Data cleaning and preprocessing
-Customer sales and profit analysis
-Product and category performance
-Regional and state-wise sales analysis
-Monthly and yearly sales trends
-SQL queries and statistical analysis
+   Data cleaning and preprocessing
+   
+   Customer sales and profit analysis
+   
+   Product and category performance
+   
+   Regional and state-wise sales analysis
+   
+   Monthly and yearly sales trends
+   
+   SQL queries and statistical analysis
+
 Data visualization
 
 6. Key Insights
    
-The West region generated the highest sales and profit.
-The South region had the lowest total sales among the four regions.
-California recorded the highest state-level sales.
-November 2017 had the highest monthly sales.
-Some months recorded negative profit, highlighting the need to investigate discounts, costs, and product performance.
+   The West region generated the highest sales and profit.
+   
+   The South region had the lowest total sales among the four regions.
+   
+   California recorded the highest state-level sales.
+   
+   November 2017 had the highest monthly sales.
+   
+   Some months recorded negative profit, highlighting the need to investigate discounts, costs, and product performance.
 
 7. How to Run
    
