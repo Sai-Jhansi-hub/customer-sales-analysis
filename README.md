@@ -61,9 +61,9 @@ Python -> Data Cleaning -> SQL -> Analysis -> Visualization -> Business Insights
 
 Final Deliverables
 
-   - Cleaned dataset
-   - Python notebook
-   - SQL queries
-   - Visualizations
-   - Business insights and recommendations
-   - Project documentation
+      - Cleaned dataset
+      - Python notebook
+      - SQL queries
+      - Visualizations
+      - Business insights and recommendations
+      - Project documentation
