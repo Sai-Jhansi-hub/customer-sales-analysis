@@ -1,11 +1,13 @@
-Customer Sales Analysis
+# Customer Sales Analysis
 1. Project Overview
    
 This project analyzes Superstore sales data to understand sales performance, profitability, customer purchasing behavior, and regional trends.
 The goal is to identify business opportunities, improve profitability, and support data-driven decision-making.
-3. Dataset
+2. Dataset
+   
 The dataset is the Sample - Superstore dataset. It contains order details, customers, products, sales, quantity, discount, profit, shipping information, and geographical details.
-4. Technologies Used
+3. Technologies Used
+
 Python
 Pandas
 NumPy
