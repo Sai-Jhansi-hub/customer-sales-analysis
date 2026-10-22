@@ -11,13 +11,13 @@ The dataset is the Sample - Superstore dataset. It contains order details, custo
 3. Technologies Used
 
 - Python
-Pandas
-NumPy
-SQL (SQLite)
-Matplotlib
-Seaborn
-Google Colab
-Git and GitHub
+- Pandas
+- NumPy
+- SQL (SQLite)
+- Matplotlib
+- Seaborn
+- Google Colab
+- Git and GitHub
 
 4. Project Structure
    
@@ -61,9 +61,9 @@ Python -> Data Cleaning -> SQL -> Analysis -> Visualization -> Business Insights
 
 Final Deliverables
 
-Cleaned dataset
-Python notebook
-SQL queries
-Visualizations
-Business insights and recommendations
-Project documentation
+- Cleaned dataset
+- Python notebook
+- SQL queries
+- Visualizations
+- Business insights and recommendations
+- Project documentation
