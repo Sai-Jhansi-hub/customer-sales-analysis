@@ -31,7 +31,6 @@ The dataset is the Sample - Superstore dataset. It contains order details, custo
 5. Analysis Performed
    
    Data cleaning and preprocessing
-   
    Customer sales and profit analysis
    
    Product and category performance
@@ -42,7 +41,7 @@ The dataset is the Sample - Superstore dataset. It contains order details, custo
    
    SQL queries and statistical analysis
 
-Data visualization
+   Data visualization
 
 6. Key Insights
    
