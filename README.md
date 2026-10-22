@@ -22,10 +22,15 @@ The dataset is the Sample - Superstore dataset. It contains order details, custo
 4. Project Structure
    
 data/: Original and cleaned datasets
+
 notebooks/: Python analysis notebooks
+
 sql/: SQL queries
+
 outputs/: Cleaned data and visualizations
+
 README.md: Project documentation
+
 requirements.txt: Required Python libraries
 
 5. Analysis Performed
